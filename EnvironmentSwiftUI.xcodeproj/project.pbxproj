@@ -13,6 +13,7 @@
 		4219CB4224220D3A007F083E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4219CB4124220D3A007F083E /* Assets.xcassets */; };
 		4219CB4524220D3A007F083E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4219CB4424220D3A007F083E /* Preview Assets.xcassets */; };
 		4219CB4824220D3A007F083E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4219CB4624220D3A007F083E /* LaunchScreen.storyboard */; };
+		42A66506242A3430003E4B9F /* Knob.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A66505242A3430003E4B9F /* Knob.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4219CB4424220D3A007F083E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4219CB4724220D3A007F083E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4219CB4924220D3A007F083E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42A66505242A3430003E4B9F /* Knob.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Knob.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4219CB3B24220D37007F083E /* AppDelegate.swift */,
 				4219CB3D24220D37007F083E /* SceneDelegate.swift */,
 				4219CB3F24220D37007F083E /* ContentView.swift */,
+				42A66505242A3430003E4B9F /* Knob.swift */,
 				4219CB4124220D3A007F083E /* Assets.xcassets */,
 				4219CB4624220D3A007F083E /* LaunchScreen.storyboard */,
 				4219CB4924220D3A007F083E /* Info.plist */,
@@ -149,6 +152,7 @@
 				4219CB3C24220D37007F083E /* AppDelegate.swift in Sources */,
 				4219CB3E24220D37007F083E /* SceneDelegate.swift in Sources */,
 				4219CB4024220D37007F083E /* ContentView.swift in Sources */,
+				42A66506242A3430003E4B9F /* Knob.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
